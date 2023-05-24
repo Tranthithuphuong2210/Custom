@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="trần thị thu phương">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CustomSpinner2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CustomizeDialogTutorial.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CustomButton2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CustomProgressBar2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CustomFontsTextViewExample.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
